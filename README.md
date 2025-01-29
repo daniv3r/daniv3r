@@ -5,7 +5,7 @@
 🔍 Passionate about **Swift, ML, Vision, and performance optimization**  
   
   
-## 🚀 About Me  
+## 🚀 About  
 👨‍💻 6 years of experience in mobile development  
 🎯 Passionate about **discovering new tools, technologies, and sharing knowledge**  
 📢 Building apps, breaking things, debugging nightmares, and **finally shipping them**
