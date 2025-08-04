@@ -1,23 +1,24 @@
 ## 👋 Hey, I'm Dani
 
-🚀 **iOS Engineer | Apple Multiplatform | Swift Enthusiast**  
-📱 Building & launching apps for Apple platforms  
-🔍 Passionate about **Swift, ML, Vision, and performance optimization**  
+**iOS & Apple Platform Engineer**  
+I build apps across the Apple ecosystem — iOS, macOS, and beyond.  
+Focused on performance, reliability, and delivering thoughtful user experiences.
   
+## About Me
+
+- 👨‍💻 6+ years of experience in mobile development  
+- 🧠 Lead feature work, mentored engineers, and worked on mobile infrastructure  
+- ⚙️ Into Swift, Vision, ML, and performance optimization  
+- 🧪 Constantly exploring new tools, technologies, and AI-assisted workflows
+
   
-## 🚀 About  
-👨‍💻 6 years of experience in mobile development  
-🎯 Passionate about **discovering new tools, technologies, and sharing knowledge**  
-📢 Building apps, breaking things, debugging nightmares, and **finally shipping them**
-  
-  
-## 📢 Find Me  
-💼 [LinkedIn](www.linkedin.com/in/daniel-veremei)
+## Find Me  
+- [LinkedIn](www.linkedin.com/in/daniel-veremei)
 - [Twitter/X](https://x.com/daniv3r)
 - [Mastodon](https://mastodon.social/@danv3r)
 
 \
-🤝 Let’s build something great. **Reach out!** 
+🤝 Let’s connect — I’m always up for building something meaningful.
 
 <!--
 **Veremei/Veremei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
