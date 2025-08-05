@@ -13,7 +13,7 @@ Focused on performance, reliability, and delivering thoughtful user experiences.
 
   
 ## Find Me  
-- [LinkedIn](www.linkedin.com/in/daniel-veremei)
+- [LinkedIn](https://linkedin.com/in/daniel-veremei)
 - [Twitter/X](https://x.com/daniv3r)
 - [Mastodon](https://mastodon.social/@danv3r)
 
