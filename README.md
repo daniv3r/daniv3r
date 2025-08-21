@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Dani
+## 👋 Hey, I'm Daniel
 
 **iOS & Apple Platform Engineer**  
 I build apps across the Apple ecosystem — iOS, macOS, and beyond.  
