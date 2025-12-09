@@ -1,24 +1,25 @@
-## 👋 Hey, I'm Daniel
+# Senior iOS & macOS Engineer | 7 YoE  
+[LinkedIn](https://linkedin.com/in/daniel-veremei) | [Twitter/X](https://x.com/daniv3r) | [Mastodon](https://mastodon.social/@danv3r)
 
-**iOS & Apple Platform Engineer**  
-I build apps across the Apple ecosystem — iOS, macOS, and beyond.  
+Building products from scratch for iOS, macOS, tvOS, watchOS.  
 Focused on performance, reliability, and delivering thoughtful user experiences.
   
 ## About Me
 
-- 👨‍💻 6+ years of experience in mobile development  
+- 👨‍💻 7 years of experience delivering apps across finance, entertainment, utilities, business, and health domains
 - 🧠 Lead feature work, mentored engineers, and worked on mobile infrastructure  
 - ⚙️ Into Swift, Vision, ML, and performance optimization  
 - 🧪 Constantly exploring new tools, technologies, and AI-assisted workflows
 
-  
-## Find Me  
-- [LinkedIn](https://linkedin.com/in/daniel-veremei)
-- [Twitter/X](https://x.com/daniv3r)
-- [Mastodon](https://mastodon.social/@danv3r)
 
-\
-🤝 Let’s connect — I’m always up for building something meaningful.
+## Stack
+- Swift, Objective-C
+- SwiftUI, UIKit, AppKit, Concurrency (async/await), Combine, StoreKit, AVFoundation, Core Audio, Push Notifications, Widgets, App Clips, Alamofire
+- Xcode Cloud, Fastlane, Jenkins, SwiftLint, Sourcery, SwiftGen, SwiftFormat
+- Core Data, SwiftData, Realm, GraphQL
+- A/B Testing, Remote Config, Sentry, Firebase, Amplitude, Mixpanel, Segment
+
+
 
 <!--
 **Veremei/Veremei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
