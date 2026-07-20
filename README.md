@@ -1,25 +1,27 @@
-# Senior iOS & macOS Engineer | 7 YoE  
-[LinkedIn](https://linkedin.com/in/daniel-veremei) | [Twitter/X](https://x.com/daniv3r) | [Mastodon](https://mastodon.social/@danv3r)
+# Senior iOS & macOS Engineer
 
-Building products from scratch for iOS, macOS, tvOS, watchOS.  
-Focused on performance, reliability, and delivering thoughtful user experiences.
-  
-## About Me
+📍 Based in Warsaw, Poland  
+🔗 Portfolio: https://daniv3r.github.io/
 
-- 👨‍💻 7 years of experience delivering apps across finance, entertainment, utilities, business, and health domains
-- 🧠 Lead feature work, mentored engineers, and worked on mobile infrastructure  
-- ⚙️ Into Swift, Vision, ML, and performance optimization  
-- 🧪 Constantly exploring new tools, technologies, and AI-assisted workflows
+I build Apple-platform products from idea to App Store, owning architecture, CI/CD, subscriptions, analytics, and release processes.
 
+Over the past 7+ years I've worked across FinTech, AI, creator economy, media, healthcare, IoT, and utilities, collaborating closely with founders and product teams to ship scalable products.
 
-## Stack
+Currently building a FinTech app from the ground up at Othis.
+
+## I usually work with
+
 - Swift, Objective-C
-- SwiftUI, UIKit, AppKit, Concurrency (async/await), Combine, StoreKit, AVFoundation, Core Audio, Push Notifications, Widgets, App Clips, Alamofire
-- Xcode Cloud, Fastlane, Jenkins, SwiftLint, Sourcery, SwiftGen, SwiftFormat
-- Core Data, SwiftData, Realm, GraphQL
-- A/B Testing, Remote Config, Sentry, Firebase, Amplitude, Mixpanel, Segment
+- SwiftUI, UIKit, AppKit
+- Swift Concurrency, Combine
+- StoreKit, Widgets, App Clips
+- GraphQL, Core Data, SwiftData, Realm
+- Fastlane, Xcode Cloud, Jenkins
+- Firebase, Amplitude, Mixpanel, Segment
+- SwiftLint, SwiftFormat, SwiftGen, Sourcery
 
 
+[LinkedIn](https://linkedin.com/in/daniel-veremei) | [Twitter/X](https://x.com/daniv3r) | [Mastodon](https://mastodon.social/@danv3r)
 
 <!--
 **Veremei/Veremei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
