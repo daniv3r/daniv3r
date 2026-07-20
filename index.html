@@ -189,8 +189,27 @@ class Component extends DCLogic {
   componentDidMount() {
     let saved = null;
     try { saved = localStorage.getItem('portfolio-theme'); } catch (e) {}
-    const initial = saved || this.props.defaultTheme || 'light';
+    let systemPref = null;
+    try {
+      if (window.matchMedia) {
+        systemPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+    } catch (e) {}
+    const initial = saved || systemPref || this.props.defaultTheme || 'light';
     this.setState({ theme: initial });
+
+    try {
+      if (window.matchMedia) {
+        const mq = window.matchMedia('(prefers-color-scheme: dark)');
+        this._themeMQ = mq;
+        this._onThemeMQChange = (e) => {
+          let stillSaved = null;
+          try { stillSaved = localStorage.getItem('portfolio-theme'); } catch (err) {}
+          if (!stillSaved) this.setState({ theme: e.matches ? 'dark' : 'light' });
+        };
+        mq.addEventListener ? mq.addEventListener('change', this._onThemeMQChange) : mq.addListener(this._onThemeMQChange);
+      }
+    } catch (e) {}
 
     const heroRow = document.getElementById('hero-row');
     if (heroRow && typeof ResizeObserver !== 'undefined') {
@@ -205,6 +224,9 @@ class Component extends DCLogic {
 
   componentWillUnmount() {
     if (this._heroRO) this._heroRO.disconnect();
+    if (this._themeMQ && this._onThemeMQChange) {
+      this._themeMQ.removeEventListener ? this._themeMQ.removeEventListener('change', this._onThemeMQChange) : this._themeMQ.removeListener(this._onThemeMQChange);
+    }
   }
 
   toggleTheme = () => {
