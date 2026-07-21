@@ -1,13 +1,8 @@
 # Senior iOS & macOS Engineer
 
-📍 Based in Warsaw, Poland  
-🔗 Portfolio: https://daniv3r.github.io/
-
 I build Apple-platform products from idea to App Store, owning architecture, CI/CD, subscriptions, analytics, and release processes.
 
 Over the past 7+ years I've worked across FinTech, AI, creator economy, media, healthcare, IoT, and utilities, collaborating closely with founders and product teams to ship scalable products.
-
-Currently building a FinTech app from the ground up at Othis.
 
 ## I usually work with
 
@@ -19,9 +14,6 @@ Currently building a FinTech app from the ground up at Othis.
 - Fastlane, Xcode Cloud, Jenkins
 - Firebase, Amplitude, Mixpanel, Segment
 - SwiftLint, SwiftFormat, SwiftGen, Sourcery
-
-
-[LinkedIn](https://linkedin.com/in/daniel-veremei) | [Twitter/X](https://x.com/daniv3r) | [Mastodon](https://mastodon.social/@danv3r)
 
 <!--
 **Veremei/Veremei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
