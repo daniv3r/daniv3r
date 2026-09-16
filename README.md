@@ -4,7 +4,7 @@ I build Apple-platform products from idea to App Store, owning architecture, CI/
 
 Over the past 7+ years I've worked across FinTech, AI, creator economy, media, healthcare, IoT, and utilities, collaborating closely with founders and product teams to ship scalable products.
 
-## I usually work with
+## Stack
 
 - Swift, Objective-C
 - SwiftUI, UIKit, AppKit
