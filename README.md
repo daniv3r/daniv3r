@@ -1,20 +1,17 @@
 # Senior Mobile Engineer | Full Stack
 
-I build Apple-platform products from idea to App Store, owning architecture, CI/CD, subscriptions, analytics, and release processes.
+I build mobile products from idea to App Store, owning architecture, CI/CD, subscriptions, analytics, backend, infra, and release processes.
 
 Over the past 7+ years I've worked across FinTech, AI, creator economy, media, healthcare, IoT, and utilities, collaborating closely with founders and product teams to ship scalable products.
 
 ## Stack
 
 - Swift, Objective-C
-- SwiftUI, UIKit, AppKit
-- Swift Concurrency, Combine
+- SwiftUI, UIKit, AppKit, Swift Concurrency, Combine
 - StoreKit, Widgets, App Clips
 - GraphQL, Core Data, SwiftData, Realm
-- Fastlane, Xcode Cloud, Jenkins
 - Firebase, Amplitude, Mixpanel, Segment
-- SwiftLint, SwiftFormat, SwiftGen, Sourcery
-- Python/FastAPI, Go, React/TypeScript, GraphQL
+- Python/FastAPI, Go, React/TypeScript
 - Xcode, Instruments, GitHub Actions, AI-assisted development
 
 <!--
