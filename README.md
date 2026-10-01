@@ -1,4 +1,4 @@
-# Senior iOS & macOS Engineer
+# Senior Mobile Engineer | Full Stack
 
 I build Apple-platform products from idea to App Store, owning architecture, CI/CD, subscriptions, analytics, and release processes.
 
@@ -14,6 +14,8 @@ Over the past 7+ years I've worked across FinTech, AI, creator economy, media, h
 - Fastlane, Xcode Cloud, Jenkins
 - Firebase, Amplitude, Mixpanel, Segment
 - SwiftLint, SwiftFormat, SwiftGen, Sourcery
+- Python/FastAPI, Go, React/TypeScript, GraphQL
+- Xcode, Instruments, GitHub Actions, AI-assisted development
 
 <!--
 **Veremei/Veremei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
