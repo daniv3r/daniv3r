@@ -1,30 +1,17 @@
-# Senior Mobile Engineer | Full Stack
+# Senior Full Stack | Mobile | 8 YoE
 
-I build mobile products from idea to App Store, owning architecture, CI/CD, subscriptions, analytics, backend, infra, and release processes.
+### My core expertise is in mobile engineering, complemented by hands-on full-stack experience across Swift, Kotlin, Python/FastAPI, Go, and React/TypeScript.
 
-Over the past 7+ years I've worked across FinTech, AI, creator economy, media, healthcare, IoT, and utilities, collaborating closely with founders and product teams to ship scalable products.
+Ownership of the entire development lifecycle: from product discovery and system architecture to implementation, deployment, monitoring, and continuous improvement
 
-## Stack
+I've worked across FinTech, healthcare, and AI, building wealth-management platforms, subscription products, computer vision pipelines, on-device ML solutions, telehealth workflows, and AI-powered photo and video applications.
 
-- Swift, Objective-C
-- SwiftUI, UIKit, AppKit, Swift Concurrency, Combine
-- StoreKit, Widgets, App Clips
-- GraphQL, Core Data, SwiftData, Realm
-- Firebase, Amplitude, Mixpanel, Segment
-- Python/FastAPI, Go, React/TypeScript
-- Xcode, Instruments, GitHub Actions, AI-assisted development
+Currently building two products:
+- Paint-by-Numbers App: Photo-to-painting conversion powered by computer vision and image segmentation, with a Python/FastAPI backend, OpenCV, SLIC, PostgreSQL, Cloudflare, and Pytest.
+- AI-Powered Teleprompter: Speech recognition with real-time word-to-script alignment, voice-following guidance, concurrent audio processing, and reliable reading-session recovery.
 
-<!--
-**Veremei/Veremei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on the 197 app ideas I have in the Apple Notes
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Mobile: Swift, SwiftUI, UIKit, AppKit, iOS, Flutter, React Native, KMP
+• Backend: Python, FastAPI, Go, REST, GraphQL, PostgreSQL, Redis
+• Web: TypeScript, React, Next.js, HTML, CSS
+• Cloud & Infrastructure: AWS, Docker, Terraform, GitHub Actions, GCP
+• AI / ML: CoreML, Vision, OpenCV, computer vision, on-device ML
